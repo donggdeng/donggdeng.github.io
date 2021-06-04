@@ -1,3 +1,4 @@
+![Image of Staying Home](/docs/assets/wash_vegetables.png)
 ## 《居家》
 影片时长: 86分钟
 制作年份: 2020
