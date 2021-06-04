@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## 《居家》
+影片时长: 86分钟
+制作年份: 2020
+类别/语言: 纪录片/湖北方言
+职务: 导演/制片/摄影/剪辑
 
-You can use the [editor on GitHub](https://github.com/donggdeng/donggdeng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/donggdeng/donggdeng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+影片简介: 2020年1月23日武汉宣布封城的时候，我们一家人正在离武汉75公里的一个小镇上过年。小镇在随后的第二天也进入封锁状态。这部电影用手机记录了我们一家人在之后两个多月封城期间的家庭生活。对一个电影作者来说，因为外界原因，不得不和家人一起待在家里其实是一件好事情。封城制造了一个契机，让我可以专注地观察他们的生活。不管是记录下疫情中的个体如何面对封城生活，还是仅仅把它当作一段特殊时期的家族志，于我个人而言，都是有意义的。
