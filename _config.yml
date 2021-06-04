@@ -2,4 +2,6 @@ theme: jekyll-theme-minimal
 title: 董登
 description: 导演•编剧•作家
 
+show_downloads: false
+
 logo: /docs/assets/photo_of_me.jpg
