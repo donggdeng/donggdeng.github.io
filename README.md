@@ -1,5 +1,5 @@
 ![Image of Staying Home](/docs/assets/wash_vegetables.png)
-## 《居家》
+## 居家
 影片时长: 86分钟  
 制作年份: 2020  
 类别/语言: 纪录片/湖北方言  
@@ -10,7 +10,7 @@
 -----------------------------------------
 
 ![Image of Wreath Shop](/docs/assets/watch_tv.png)
-## 《花圈店、河堤与死亡》
+## 花圈店、河堤与死亡
 影片时长: 90分钟  
 制作年份: 2021  
 类别/语言: 纪录片/湖北方言  
@@ -20,7 +20,7 @@
 
 ----------------------------------------
 ![Image of Emerald Green](/docs/assets/in_front_of_painting.png)
-## 《绿》
+## 绿
 影片时长: 14分钟  
 制作年份: 2019  
 类别/语言: 剧情短片/普通话  
